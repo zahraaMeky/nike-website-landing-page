@@ -1,8 +1,8 @@
 function Hero() {
   return (
-    <div>
-      
-    </div>
+    <section id="home0" className="w-full">
+      hero
+    </section>
   )
 }
 
