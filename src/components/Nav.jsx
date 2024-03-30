@@ -1,6 +1,6 @@
 import headerlogo from "../assets/images/header-logo.svg"
 import hamburger from "../assets/icons/hamburger.svg"
-import {navLinks} from "../constants/index"
+import {navLinks} from "../constants"
 function Nav() {
   return (
     <header className="py-8 w-full absolute padding-x">
