@@ -1,4 +1,4 @@
-import Button from "../components/Button/Button"
+import Button from "../components/Button"
 import {arrowRight} from '../assets/icons'
 import {statistics,shoes} from "../constants"
 import {bigShoe1 } from "../assets/images"
