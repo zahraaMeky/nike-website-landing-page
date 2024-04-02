@@ -21,12 +21,13 @@ function SpecialOffers() {
           desires, surpassing the loftiest expectations. Your journey with us is
           nothing short of exceptional.
         </p>
-      </div>
+    
       <div className="flex flex-wrap mt-11 gap-4">
         <Button label="shop now" iconURL={arrowRight}/>
         <Button label="Learn more" backgroundColor='bg-white'
             borderColor='border-slate-gray'
             textColor='text-slate-gray'/>
+      </div>
       </div>
     </section>
   )
