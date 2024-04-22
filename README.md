@@ -1,6 +1,6 @@
 <div align="center">
    
-  <img src="[https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB](https://github.com/zahraaMeky/nike-website-landing-page/assets/123356306/6af2a045-8b82-4afc-b6ff-0eac37a5cf96)" alt=nike-website-landing-page" />
+  <img src="https://github.com/zahraaMeky/nike-website-landing-page/assets/123356306/6af2a045-8b82-4afc-b6ff-0eac37a5cf96" alt="nike-website-landing-page" />
   <br />
    <br />
   <div>
