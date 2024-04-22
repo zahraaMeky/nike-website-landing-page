@@ -15,7 +15,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Imaginify is an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
+Modern web development with this Nike-inspired landing page built using React.js and Tailwind CSS. I developed it during my journey to learn Tailwind, and a big thanks to JavaScript Mastery channel.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -38,13 +38,6 @@ Imaginify is an AI image SaaS platform that excels in image processing capabilit
 
 👉 **The entire website is responsive across various devices.
 
-
-
-
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+ ##🔗 Links:
+Live Site https://nike-website-landing-page-three.vercel.app
 
